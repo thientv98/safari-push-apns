@@ -1,0 +1,8 @@
+{
+    "websiteName": "Safari Push TCCHAT",
+    "websitePushID": "web.tcchat.demo-web.asia",
+    "allowedDomains": ["https://tcchat.demo-web.asia"],
+    "urlFormatString": "https://tcchat.demo-web.asia/%@",
+    "authenticationToken": "19f8d7a6e9fb8a7f6d9330dabe",
+    "webServiceURL": "https://internal-messenger-api-dev.demo-web.asia"
+}
