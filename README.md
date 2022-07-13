@@ -9,3 +9,4 @@ https://www.apple.com/certificateauthority/
 ```
 openssl x509 -inform der -in AppleWWDRCA.cer -out AppleWWDRCA.pem
 ```
+Run createPushPackage.php to create zip file. New zip file storage at ./pushPackage
